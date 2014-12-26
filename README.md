@@ -1,4 +1,4 @@
 SnakeAnimation
 ==============
 
-This a snake loader animation for iOS
+This is a snake loader animation for iOS
